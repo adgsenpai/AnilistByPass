@@ -10,8 +10,8 @@ This application is a Flask-based proxy server for forwarding GraphQL requests t
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/flask-graphql-proxy.git
-   cd flask-graphql-proxy
+   git clone https://github.com/adgsenpai/AnilistByPass
+   cd AnilistByPass
    ```
 
 2. **Install dependencies**:
