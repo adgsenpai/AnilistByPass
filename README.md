@@ -75,5 +75,5 @@ Ensure that sensitive data such as cookie values or authentication tokens are ma
 MIT License
 
 ## Contact
-For further information or questions, please contact Ashlin Darius Govindasamy at [your-email@example.com].
+For further information or questions, please contact Ashlin Darius Govindasamy at [adg@adgstudios.co.za].
 
